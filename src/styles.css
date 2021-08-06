@@ -18,3 +18,12 @@
     color:white;
     background-color: #B71C1C;
 }
+
+.container{
+    width: 85% !important;
+}
+
+.filter
+{
+    padding: 5px 55px;
+}
